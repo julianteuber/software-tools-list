@@ -1,6 +1,6 @@
 # List of software
 
-This file provides a list of mostly used software.
+This file provides a list of usefull software tools.
 
 ## Mechanical engineering
 
