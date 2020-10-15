@@ -15,6 +15,7 @@ This file provides a list of usefull software tools.
 
 * AppCAD - Avago Technologies
 * [SimSmith](http://www.ae6ty.com/Smith_Charts.html)
+* [Qucs (simulation with s-parameters)](http://qucs.sourceforge.net/)
 * KiCAD
 * Eagle
 * TARGET 3001!
